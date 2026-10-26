@@ -1,0 +1,11 @@
+{
+  "name": "Irregular Verbs Amharic Learning",
+  "short_name": "Verb Amharic",
+  "description": "Learn English irregular verbs with V1, V2, V3, Amharic meanings, patterns, search and daily reminders.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#173b70",
+  "lang": "en"
+}
